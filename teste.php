@@ -1,1 +1,1 @@
-<?php "Teste"?>
+<?= "Teste"?>
